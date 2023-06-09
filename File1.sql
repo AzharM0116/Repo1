@@ -1,2 +1,2 @@
-Create Table employee(employeeid number)
-Create Table Department(Departmentid number)
+Create Table Department(Departmentid number,departmentname varchar)
+create table Jobs(jobid number)
